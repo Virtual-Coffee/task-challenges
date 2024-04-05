@@ -45,8 +45,8 @@ This `README` should explain the goal(s) of the task challenge and how to get st
 
 We will divide task challenges into beginner, intermediate, and advanced levels. Challenges can be multi-part, increasing in difficulty the further along you go.
 
-**Beginner level tasks:** for a person learning to code
-**Intermediate level tasks:** with a focus on the working professional and building up skills
+**Beginner level tasks:** for a person learning to code <br />
+**Intermediate level tasks:** with a focus on the working professional and building up skills <br />
 **Advanced level tasks:** for seniors who want a challenge
 
 ### Working on a Technical Task Challenge
@@ -81,7 +81,7 @@ There are a few more ideas for what we can do after a VC member has completed a 
 1. The challenge originator can provide them with a list of resources and/or topics to follow up on and expand their newfound knowledge.
 2. The challenge completer can create a resource of their own covering what they just learned. Options include but are not limited to: blog posts, videos/live streams, Twitter spaces, social media posts, podcasts, etc. We would want to link them in the repository, but they can be shared outside the community as well.
 
-### Honerable Mentions
+### Honorable Mentions
 
 I would like to extend my gratitude to [Meg Gutshell](https://github.com/meg-gutshall) for helping me present this idea to Virtual Coffee community and in helping and guiding me for the proposal. Its all won't be possible without your help, Meg. Thanks a lot for everything. 
 
