@@ -1,6 +1,6 @@
 # Virtual Coffee Code of Conduct
 
-This project has adopted the [Virtual Coffee Code of Conduct](https://virtualcoffee.io/code-of-conduct/). 
+This project has adopted the [Virtual Coffee Code of Conduct](https://virtualcoffee.io/code-of-conduct/).
 
 As an Open Source Community, Virtual Coffee recognizes the importance of supporting our members and creating clear paths of communication. We know that sometimes things get lost in translation and we want to assume positive intent. 
 
