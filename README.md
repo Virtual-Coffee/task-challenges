@@ -53,7 +53,7 @@ We will divide task challenges into beginner, intermediate, and advanced levels.
 
 As a VC member looking to build your skills, you may want to try several technical task challenges. To work on a task challenge, create your own fork of the repository and a new branch titled `add-challenge-participant`. Type your name in the appropriate spot of the README where it lists the task challenge participants, and send a pull request back to the main repo.
 
-**Who Do You Go To for Help?**
+### Who Do You Go To for Help?
 
 There are several avenues of help available to VC members who take on a task challenge. The following in the order in which you should seek out help:
 
