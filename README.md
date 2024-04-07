@@ -25,7 +25,7 @@ In doing this, you are signaling to other members that you are open for conversa
 
 **NOTE:** You **should not** post any proprietary data or company-specific tasks. Focus only on transferable tools and technology.
 
-### Posting a New Technical Task Challenge
+## Posting a New Technical Task Challenge
 
 As a VC member with real-world experience, you may want to post a technical task challenge. To do this, create a fork of the repository with a new branch titled `add-<challenge-name>-challenge`. Begin by creating a new folder to hold your challenge, then add a README file. Link from the relevant task in the directory document to the `README` file in your task challenge folder.
 
