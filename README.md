@@ -39,7 +39,7 @@ This `README` should explain the goal(s) of the task challenge and how to get st
 
 **NOTE:** You do not have to create the task challenge from scratch, however, **you must have completed it before posting it** as you will be responsible for giving final feedback to VC members who attempt your challenge.
 
-#### Technical Task Challenge Skill Levels Tracks
+### Technical Task Challenge Skill Levels Tracks
 
 We will divide task challenges into beginner, intermediate, and advanced levels. Challenges can be multi-part, increasing in difficulty the further along you go.
 
