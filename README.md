@@ -47,7 +47,7 @@ We will divide task challenges into beginner, intermediate, and advanced levels.
 **Intermediate level tasks:** with a focus on the working professional and building up skills <br />
 **Advanced level tasks:** for seniors who want a challenge
 
-### Working on a Technical Task Challenge
+## Working on a Technical Task Challenge
 
 As a VC member looking to build your skills, you may want to try several technical task challenges. To work on a task challenge, create your own fork of the repository and a new branch titled `add-challenge-participant`. Type your name in the appropriate spot of the README where it lists the task challenge participants, and send a pull request back to the main repo.
 
