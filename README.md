@@ -8,7 +8,7 @@ These task challenges will greatly benefit the entire Virtual Coffee community. 
 
 ## Table of Contents
 
-- [Adding your Experience](#adding-your-experience)
+- [Adding Your Experience](#adding-your-experience)
 - [Posting a New Technical Task Challenge](#posting-a-new-technical-task-challenge)
 - [Technical Task Challenge Skill Levels Tracks](#technical-task-challenge-skill-levels-tracks)
 - [Working on a Technical Task Challenge](#working-on-a-technical-task-challenge)
