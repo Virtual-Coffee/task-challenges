@@ -17,7 +17,7 @@ These task challenges will greatly benefit the entire Virtual Coffee community. 
 - [Honorable Mentions](#honorable-mentions)
 - [Code of Conduct](./CODE_OF_CONDUCT.md)
 
-### Adding Your Experience
+## Adding Your Experience
 
 As a VC member with real-world experience, you may want to list some of your routine technical tasks. To do this, first create a fork of the repository and a new branch titled `add-to-directory`. Add your name, job title(s), years in the role(s), and tasks to the directory document. Then, make a pull request back to the main project.
 
