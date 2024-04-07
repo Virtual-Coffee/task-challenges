@@ -14,7 +14,7 @@ These task challenges will greatly benefit the entire Virtual Coffee community. 
 - [Working on a Technical Task Challenge](#working-on-a-technical-task-challenge)
 - [Submitting Your Technical Task Challenge](#submitting-your-technical-task-challenge)
 - [Going Further](#going-further)
-- [Honerable Mentions](#honorable-mentions)
+- [Honorable Mentions](#honorable-mentions)
 - [Code of Conduct](./CODE_OF_CONDUCT.md)
 
 ### Adding Your Experience
