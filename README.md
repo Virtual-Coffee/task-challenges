@@ -69,7 +69,6 @@ After your solution has been peer reviewed and necessary changes made, you may p
 
 #### Example
 
-
 At work, one of my tasks is to implement a CI/CD setup for a React/Node application using GitLab CI and Jenkins. If I wanted to create a task challenge for this, I would fork the repository, add my information to the directory document, and create a new folder called `Implement CI/CD Setup for a React/Node Application Using GitLab CI and Jenkins`. I would add a `README` file with an overview of the challenge and instructions on how to proceed and link that back to the directory document.
 
 Since I've done this before and am very comfortable with the process, I can help whoever tries it out first. Then as more people attempt the challenge, the pool of people who can help answer questions and debug grows, so I don't become overwhelmed with requests for support.
