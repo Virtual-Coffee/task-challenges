@@ -7,6 +7,7 @@ Virtual Coffee's Technical Task Challenges are created/aggregated by VC members 
 These task challenges will greatly benefit the entire Virtual Coffee community. They will serve our members who are current working professionals by allowing them to up-skill in select technologies and tools. They will also help our job seekers, especially those with no prior professional experience in the tech industry. The unique added value of the technical task challenges is that they're modeled after real-world scenarios, lending these exercises a quality that far surpasses what's readily available on sites like LeetCode and Codewars.
 
 ## Table of Contents
+
 - [Adding your Experience](#adding-your-experience)
 - [Posting a New Technical Task Challenge](#posting-a-new-technical-task-challenge)
 - [Technical Task Challenge Skill Levels Tracks](#technical-task-challenge-skill-levels-tracks)
