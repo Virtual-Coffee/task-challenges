@@ -18,7 +18,6 @@ These task challenges will greatly benefit the entire Virtual Coffee community. 
 
 ### Adding Your Experience
 
-
 As a VC member with real-world experience, you may want to list some of your routine technical tasks. To do this, first create a fork of the repository and a new branch titled `add-to-directory`. Add your name, job title(s), years in the role(s), and tasks to the directory document. Then, make a pull request back to the main project.
 
 In doing this, you are signaling to other members that you are open for conversation about the listed tasks. If you so choose, you can post a challenge (or challenges) related to one or more of your listed tasks.
