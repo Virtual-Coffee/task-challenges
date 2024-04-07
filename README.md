@@ -83,5 +83,5 @@ There are a few more ideas for what we can do after a VC member has completed a 
 
 ### Honorable Mentions
 
-I would like to extend my gratitude to [Meg Gutshell](https://github.com/meg-gutshall) for helping me present this idea to Virtual Coffee community and in helping and guiding me for the proposal. Its all won't be possible without your help, Meg. Thanks a lot for everything. 
+I would like to extend my gratitude to [Meg Gutshell](https://github.com/meg-gutshall) for helping me present this idea to Virtual Coffee community and in helping and guiding me for the proposal. Its all won't be possible without your help, Meg. Thanks a lot for everything.
 
