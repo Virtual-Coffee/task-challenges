@@ -12,8 +12,10 @@ These task challenges will greatly benefit the entire Virtual Coffee community. 
 - [Posting a New Task Challenge](#posting-a-new-task-challenge)
 - [Task Challenge Skill Levels Tracks](#task-challenge-skill-levels-tracks)
 - [Working on a Task Challenge](#working-on-a-task-challenge)
+- [Who Do You Go To for Help?](#who-do-you-go-to-for-help)
 - [Submitting Your Task Challenge](#submitting-your-task-challenge)
 - [Going Further](#going-further)
+- [Author](#author)
 - [Honorable Mentions](#honorable-mentions)
 - [Code of Conduct](./CODE_OF_CONDUCT.md)
 
