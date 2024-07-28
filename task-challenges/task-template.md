@@ -1,33 +1,60 @@
-# Angular Music Player App
+# Backend API Challenge: Node.js Simple API
 
 **Creator :** XYZ
 
 ## Prerequisites
 
-- Basic CSS
-- Angular
+- Basic JavaScript and Node.js
+- Express.js
+- MongoDB (or any other database of your choice)
+- Basic knowledge of RESTful API principles
 
 ## The Tech
 
-- `!` Angular 6+  
-- Angular UI Framework (Any UI Framework, Angular Material , NG Bootstrap, your call) or Custom CSS
-
+- Node.js
+- Express.js (for creating the API)
+- MongoDB (for storing data; you can use Mongoose for easier interaction)
+- Postman or any other API testing tool
 
 ## The Challenge
 
-Create a simple music player. It's not going to be a full spotify clone but enough to help me understand your thinking process and judge your skill level.
+Create a simple backend API to manage a collection of resources (e.g., articles, tasks, or any other entity). This challenge will help to understand your thinking process and judge your skill level.
 
-### Widgets / Components / Screens
+### Endpoints and Features
 
-- A Screen for playlists, ability to add playlists and or remove playlists.
-- A Global Player accross all screens.
-- You can store Royalty Free music mp3's in the project repo to actually have working music, or find a better solution.
-- A screen or widget for the current player queue.
+#### CRUD Operations on a Simple Resource (e.g., Articles, Tasks)
+
+**Create Resource:** Add a new resource.
+**Get All Resources:** Retrieve all resources.
+**Get Resource by ID:** Retrieve a specific resource by its ID.
+**Update Resource:** Update a specific resource.
+**Delete Resource:** Delete a specific resource.
 
 ### Bonus Points
 
-If you are early on the above then you can attempt adding this as well.
-a binary search implementation of the list of tracks that you plan to add. The Search should be able to go through all the playlists you have.
+#### For Beginner Level
+
+**Search Functionality:** Implement a search endpoint to find resources by title or content.
+
+#### For Intermediate Level
+
+**User Authentication**
+**Sign Up:** Create a new user account.
+**Login:** Authenticate a user and return a token.
+**Logout:** Log out a user (invalidate the token).
+**Get User Profile:** Retrieve the authenticated user's profile
+**Search Functionality:** Implement a search endpoint to find resources by title or content.
+
+#### For Advanced Level
+
+**User Authentication**
+**Sign Up:** Create a new user account.
+**Login:** Authenticate a user and return a token.
+**Logout:** Log out a user (invalidate the token).
+**Get User Profile:** Retrieve the authenticated user's profile.
+**Token Refresh:** Implement a token refresh mechanism to allow users to obtain a new token without re-authenticating.
+**Password Reset:** Implement a password reset functionality.
+Search Functionality: Implement a search endpoint to find resources by title or content.
 
 ## Deadline
 
@@ -36,17 +63,15 @@ a binary search implementation of the list of tracks that you plan to add. The S
 
 ## Deliverables (Optional)
 
-- You can generate static htmls that you can either host on Github Pages, Netlify or Firebase.
-- Decide how the output should be submitted, like in form of deployable web app, github repo, blog articles.
+- Deploy the API on a platform like Render, Railway, or any other cloud service.
+- Submit the code in a GitHub repository.
 - Create a `README` in solutions directory with the name `task-template-solution.md` , so the person doing the challenge can post their name with link to their solution. We will take input from the repo for peer review and final submission.
 
 ### Code submission
 
-  [Music App submission readme](../solutions/task-template-submission.md)
+  [Backend API submission readme](../solutions/task-template-submission.md)
 
 ## Going Further
 
-- Learn about authentication
-  - Resources
-- Learn about testing
-  - Resources
+- **Authentication:** Learn about token-based authentication (e.g., JWT).
+- **Testing:** Learn about testing your API using tools like Mocha, Chai, or Jest
