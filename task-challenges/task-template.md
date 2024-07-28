@@ -85,11 +85,11 @@ Create a simple backend API to manage a collection of resources (e.g., articles,
 
 ## Deliverables (Optional)
 
-- Deploy the API on a platform like Render, Railway, or any other cloud service.
+- Deploy the API on a platform like [Render](https://render.com/), [Railway](https://railway.app/), or any other cloud service.
 - Submit the code in a GitHub repository.
-- Create a `README` in solutions directory with the name `task-template-solution.md` , so the person doing the challenge can post their name with link to their solution. We will take input from the repo for peer review and final submission.
+- Create a `README` in solutions directory with the name `task-template-solution.md`, so the person doing the challenge can post their name with link to their solution. We will take input from the repo for peer review and final submission.
 
-### Code submission
+### Code Submission
 
   [Backend API submission readme](../solutions/task-template-submission.md)
 
