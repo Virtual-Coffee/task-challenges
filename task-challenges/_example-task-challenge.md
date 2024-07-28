@@ -4,23 +4,23 @@
 **Creator:** XYZ
 **Source/Author:** ChatGPT
 
-## Prerequisites
+## The Challenge
+
+Create a simple backend API to manage a collection of resources (e.g., articles, tasks, or any other entity). This challenge will help to understand your thinking process and judge your skill level.
+
+### Prerequisites
 
 - Basic JavaScript and Node.js
 - Express.js
 - MongoDB (or any other database of your choice)
 - Basic knowledge of RESTful API principles
 
-## The Tech
+### The Tech
 
 - Node.js
 - Express.js (for creating the API)
 - MongoDB (for storing data; you can use Mongoose for easier interaction)
 - Postman or any other API testing tool
-
-## The Challenge
-
-Create a simple backend API to manage a collection of resources (e.g., articles, tasks, or any other entity). This challenge will help to understand your thinking process and judge your skill level.
 
 ### For Beginner Level
 
@@ -85,7 +85,7 @@ Create a simple backend API to manage a collection of resources (e.g., articles,
 - It's optional and it's decided by the author.
 - If a timeline is given, please specify the time required for peer review.
 
-## Deliverables (Optional)
+## Deliverables
 
 - Deploy the API on a platform like [Render](https://render.com/), [Railway](https://railway.app/), or any other cloud service.
 - Submit the code in a GitHub repository and post it under your name in the [Members Attempting](#members-attempting) section so others can access it for peer review and final submission.
