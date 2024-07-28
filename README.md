@@ -37,7 +37,8 @@ This `README` should explain the goal(s) of the task challenge and how to get st
 - any VC members currently working on the task challenge
 - any VC members who have successfully completed the task challenge, including a link to their fork of the repo
 
-**NOTE:** You do not have to create the task challenge from scratch, however, **you must have completed it before posting it** as you will be responsible for giving final feedback to VC members who attempt your challenge.
+> [!IMPORTANT]
+> You do not have to create the task challenge from scratch, however, **you must have completed it before posting it** as you will be responsible for giving final feedback to VC members who attempt your challenge.
 
 ### Technical Task Challenge Skill Levels Tracks
 
