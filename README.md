@@ -40,6 +40,12 @@ This `README` should explain the goal(s) of the task challenge and how to get st
 > [!IMPORTANT]
 > You do not have to create the task challenge from scratch, however, **you must have completed it before posting it** as you will be responsible for giving final feedback to VC members who attempt your challenge.
 
+### Example
+
+At work, one of my tasks is to implement a CI/CD setup for a React/Node application using GitLab CI and Jenkins. If I wanted to create a task challenge for this, I would fork the repository, add my information to the directory document, and create a new folder called `Implement CI/CD Setup for a React/Node Application Using GitLab CI and Jenkins`. I would add a `README` file with an overview of the challenge and instructions on how to proceed and link that back to the directory document.
+
+Since I've done this before and am very comfortable with the process, I can help whoever tries it out first. Then as more people attempt the challenge, the pool of people who can help answer questions and debug grows, so I don't become overwhelmed with requests for support.
+
 ### Technical Task Challenge Skill Levels Tracks
 
 We will divide task challenges into beginner, intermediate, and advanced levels. Challenges can be multi-part, increasing in difficulty the further along you go.
@@ -65,12 +71,6 @@ There are several avenues of help available to VC members who take on a task cha
 Unless you are the first person to attempt the task challenge, you will be required to have another VC member peer review your work before submitting your final solution to the challenge poster. If there are other VC members currently attempting the task challenge, you should pair up and peer review each other's work. If there are no other members currently attempting the task challenge, ask a member who has successfully completed it to review your work.
 
 After your solution has been peer reviewed and necessary changes made, you may proceed to submit it to the challenge originator for final analysis and feedback. Once you receive your feedback from the challenge poster and are told you've successfully completed it, you may create a new pull request to move your name in the technical task challenge `README` from the list of participants to the list of successful completions. Link back to your challenge solution in your fork if you'd like!
-
-#### Example
-
-At work, one of my tasks is to implement a CI/CD setup for a React/Node application using GitLab CI and Jenkins. If I wanted to create a task challenge for this, I would fork the repository, add my information to the directory document, and create a new folder called `Implement CI/CD Setup for a React/Node Application Using GitLab CI and Jenkins`. I would add a `README` file with an overview of the challenge and instructions on how to proceed and link that back to the directory document.
-
-Since I've done this before and am very comfortable with the process, I can help whoever tries it out first. Then as more people attempt the challenge, the pool of people who can help answer questions and debug grows, so I don't become overwhelmed with requests for support.
 
 ### Going Further
 
