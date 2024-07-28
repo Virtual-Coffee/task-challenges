@@ -27,7 +27,7 @@ In doing this, you are signaling to other members that you are open for conversa
 
 ## Posting a New Technical Task Challenge
 
-As a VC member with real-world experience, you may want to post a technical task challenge. To do this, create a fork of the repository with a new branch titled `add-<challenge-name>-challenge`. Begin by creating a new folder to hold your challenge, then add a README file. Link from the relevant task in the directory document to the `README` file in your task challenge folder.
+As a VC member with real-world experience, you may want to post a technical task challenge. To do this, create a fork of the repository with a new branch titled `add-<challenge-name>-challenge`. Begin by creating a new folder to hold your challenge, then add a `README` file. Add your task to the [Task Challenges Directory](/task-challenges/README.md) document and link it back to the `README` file in your task challenge folder.
 
 This `README` should explain the goal(s) of the task challenge and how to get started. It should also list…
 
@@ -56,11 +56,11 @@ We will divide task challenges into beginner, intermediate, and advanced levels.
 
 ## Working on a Technical Task Challenge
 
-As a VC member looking to build your skills, you may want to try several technical task challenges. To work on a task challenge, create your own fork of the repository and a new branch titled `add-challenge-participant`. Type your name in the appropriate spot of the README where it lists the task challenge participants, and send a pull request back to the main repo.
+As a VC member looking to build your skills, you may want to try several technical task challenges. To work on a task challenge, create your own fork of the repository and a new branch titled `add-challenge-participant`. Type your name in the appropriate spot of the `README` where it lists the task challenge participants, and send a pull request back to the main repo.
 
 ### Who Do You Go To for Help?
 
-There are several avenues of help available to VC members who take on a task challenge. The following in the order in which you should seek out help:
+There are several avenues of help available to VC members who take on a task challenge. The following is the order in which you should seek out help:
 
 1. **If there are other VC members currently attempting the task challenge**, partner up with them on any help you need or any questions you may have.
 2. **If any VC members have successfully completed the challenge**, review supplemental resources they created after completing the task challenge (if any) and reach out to them with questions.
