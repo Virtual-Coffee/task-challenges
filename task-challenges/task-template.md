@@ -24,10 +24,10 @@ Create a simple backend API to manage a collection of resources (e.g., articles,
 
 #### CRUD Operations on a Simple Resource (e.g., Articles, Tasks)
 
-**Create Resource:** Add a new resource.
-**Get All Resources:** Retrieve all resources.
-**Get Resource by ID:** Retrieve a specific resource by its ID.
-**Update Resource:** Update a specific resource.
+**Create Resource:** Add a new resource.<br />
+**Get All Resources:** Retrieve all resources.<br />
+**Get Resource by ID:** Retrieve a specific resource by its ID.<br />
+**Update Resource:** Update a specific resource.<br />
 **Delete Resource:** Delete a specific resource.
 
 #### Bonus Points
@@ -38,44 +38,44 @@ Create a simple backend API to manage a collection of resources (e.g., articles,
 
 #### CRUD Operations on a Simple Resource (e.g., Articles, Tasks)
 
-**Create Resource:** Add a new resource.
-**Get All Resources:** Retrieve all resources.
-**Get Resource by ID:** Retrieve a specific resource by its ID.
-**Update Resource:** Update a specific resource.
+**Create Resource:** Add a new resource.<br />
+**Get All Resources:** Retrieve all resources.<br />
+**Get Resource by ID:** Retrieve a specific resource by its ID.<br />
+**Update Resource:** Update a specific resource.<br />
 **Delete Resource:** Delete a specific resource.
 
 #### User Authentication
 
-**Sign Up:** Create a new user account.
-**Login:** Authenticate a user and return a token.
+**Sign Up:** Create a new user account.<br />
+**Login:** Authenticate a user and return a token.<br />
 **Logout:** Log out a user (invalidate the token).
 
 #### Bonus Points
 
-**Get User Profile:** Retrieve the authenticated user's profile
+**Get User Profile:** Retrieve the authenticated user's profile<br />
 **Search Functionality:** Implement a search endpoint to find resources by title or content.
 
 ### For Advanced Level
 
 #### CRUD Operations on a Simple Resource (e.g., Articles, Tasks)
 
-**Create Resource:** Add a new resource.
-**Get All Resources:** Retrieve all resources.
-**Get Resource by ID:** Retrieve a specific resource by its ID.
-**Update Resource:** Update a specific resource.
+**Create Resource:** Add a new resource.<br />
+**Get All Resources:** Retrieve all resources.<br />
+**Get Resource by ID:** Retrieve a specific resource by its ID.<br />
+**Update Resource:** Update a specific resource.<br />
 **Delete Resource:** Delete a specific resource.
 
 #### User Authentication
 
-**Sign Up:** Create a new user account.
-**Login:** Authenticate a user and return a token.
+**Sign Up:** Create a new user account.<br />
+**Login:** Authenticate a user and return a token.<br />
 **Logout:** Log out a user (invalidate the token).
 
 #### Bonus Points
 
-**Get User Profile:** Retrieve the authenticated user's profile.
-**Token Refresh:** Implement a token refresh mechanism to allow users to obtain a new token without re-authenticating.
-**Password Reset:** Implement a password reset functionality.
+**Get User Profile:** Retrieve the authenticated user's profile.<br />
+**Token Refresh:** Implement a token refresh mechanism to allow users to obtain a new token without re-authenticating.<br />
+**Password Reset:** Implement a password reset functionality.<br />
 **Search Functionality:** Implement a search endpoint to find resources by title or content.
 
 ## Deadline
