@@ -1,6 +1,6 @@
-# Task Challenges
+# Task Challenges Directory
 
-Below is a list of task challenges contained within this directory.
+Below is the list of task challenges contained within this repository. Refer to the [README](../README.md) if you have any questions.
 
 ## Beginner Task Challenges
 
@@ -13,6 +13,11 @@ Below is a list of task challenges contained within this directory.
 - Task Challenge 2
 
 ## Advanced Task Challenges
+
+- Task Challenge 1
+- Task Challenge 2
+
+## Multi-level Task Challenges
 
 - Task Challenge 1
 - Task Challenge 2
