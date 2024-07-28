@@ -19,11 +19,12 @@ These task challenges will greatly benefit the entire Virtual Coffee community. 
 
 ## Adding Your Experience
 
-As a VC member with real-world experience, you may want to list some of your routine technical tasks. To do this, first create a fork of the repository and a new branch titled `add-to-directory`. Add your name, job title(s), years in the role(s), and tasks to the directory document. Then, make a pull request back to the main project.
+As a VC member currently (or formerly) active in the professional tech industry, this is the opportunity to share your expertise with others. To do so, fork the repository and create a branch called `add-member-experience`. Navigate to the [Member Experience Directory](member-experience.md) and add your name, level of expertise, role(s), and each role's tasks to the document. Then, make a pull request back to the main project.
 
-In doing this, you are signaling to other members that you are open for conversation about the listed tasks. If you so choose, you can post a challenge (or challenges) related to one or more of your listed tasks.
+By doing this, you are signaling to other members that you are open for conversation about your experience. If you so choose, you can post a challenge (or multiple challenges) related to one or more of your listed tasks.
 
-**NOTE:** You **should not** post any proprietary data or company-specific tasks. Focus only on transferable tools and technology.
+> [!CAUTION]
+> You **should not** post any proprietary data or company-specific tasks. Focus only on transferable tools, technologies, etc.
 
 ## Posting a New Technical Task Challenge
 
@@ -80,4 +81,4 @@ There are a few more ideas for what we can do after a VC member has completed a 
 
 ### Honorable Mentions
 
-I would like to extend my gratitude to [Meg Gutshell](https://github.com/meg-gutshall) for helping me present this idea to Virtual Coffee community and in helping and guiding me for the proposal. Its all won't be possible without your help, Meg. Thanks a lot for everything.
+I would like to extend my gratitude to [Meg Gutshall](https://github.com/meg-gutshall) for helping me present this idea to the Virtual Coffee community and in helping and guiding me through the proposal. It all wouldn't be possible without your help, Meg. Thanks a lot for everything.
