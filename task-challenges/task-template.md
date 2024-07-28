@@ -20,7 +20,7 @@
 
 Create a simple backend API to manage a collection of resources (e.g., articles, tasks, or any other entity). This challenge will help to understand your thinking process and judge your skill level.
 
-### Endpoints and Features
+### For Beginner Level
 
 #### CRUD Operations on a Simple Resource (e.g., Articles, Tasks)
 
@@ -30,31 +30,53 @@ Create a simple backend API to manage a collection of resources (e.g., articles,
 **Update Resource:** Update a specific resource.
 **Delete Resource:** Delete a specific resource.
 
-### Bonus Points
-
-#### For Beginner Level
+#### Bonus Points
 
 **Search Functionality:** Implement a search endpoint to find resources by title or content.
 
-#### For Intermediate Level
+### For Intermediate Level
 
-**User Authentication**
+#### CRUD Operations on a Simple Resource (e.g., Articles, Tasks)
+
+**Create Resource:** Add a new resource.
+**Get All Resources:** Retrieve all resources.
+**Get Resource by ID:** Retrieve a specific resource by its ID.
+**Update Resource:** Update a specific resource.
+**Delete Resource:** Delete a specific resource.
+
+#### User Authentication
+
 **Sign Up:** Create a new user account.
 **Login:** Authenticate a user and return a token.
 **Logout:** Log out a user (invalidate the token).
+
+#### Bonus Points
+
 **Get User Profile:** Retrieve the authenticated user's profile
 **Search Functionality:** Implement a search endpoint to find resources by title or content.
 
-#### For Advanced Level
+### For Advanced Level
 
-**User Authentication**
+#### CRUD Operations on a Simple Resource (e.g., Articles, Tasks)
+
+**Create Resource:** Add a new resource.
+**Get All Resources:** Retrieve all resources.
+**Get Resource by ID:** Retrieve a specific resource by its ID.
+**Update Resource:** Update a specific resource.
+**Delete Resource:** Delete a specific resource.
+
+#### User Authentication
+
 **Sign Up:** Create a new user account.
 **Login:** Authenticate a user and return a token.
 **Logout:** Log out a user (invalidate the token).
+
+#### Bonus Points
+
 **Get User Profile:** Retrieve the authenticated user's profile.
 **Token Refresh:** Implement a token refresh mechanism to allow users to obtain a new token without re-authenticating.
 **Password Reset:** Implement a password reset functionality.
-Search Functionality: Implement a search endpoint to find resources by title or content.
+**Search Functionality:** Implement a search endpoint to find resources by title or content.
 
 ## Deadline
 
