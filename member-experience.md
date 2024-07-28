@@ -21,7 +21,7 @@ Give us your official job title, then briefly describe what you **_actually_** d
 
 Please list technical and non-technical tasks in this section. Include any specific technologies used as an industry standard in this role. When making this list, imagine that you're preparing for your annual review and want to show your manager you've been 10x _your job title here_ this year!
 
-## Viewing this Directory
+<!-- ## Viewing this Directory -->
 
 <!-- We need to add some content here. I think right now we're limited to Command/Alt + F page search. A great challenge would be to build out an API to facilitate this! -->
 
