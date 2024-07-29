@@ -8,9 +8,9 @@ These task challenges will greatly benefit the entire Virtual Coffee community b
 
 ### For Task Challenge Posters
 
-**Share Expertise:** Contribute your knowledge and experience to help others grow.
-**Community Contribution:** Play a pivotal role in fostering a learning environment.
-**Mentorship:** Guide and mentor fellow members through their learning journey.
+- **Share Expertise:** Contribute your knowledge and experience to help others grow.
+- **Community Contribution:** Play a pivotal role in fostering a learning environment.
+- **Mentorship:** Guide and mentor fellow members through their learning journey.
 
 ### For Task Challenge Takers
 
