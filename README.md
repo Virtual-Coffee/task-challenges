@@ -14,10 +14,11 @@ These task challenges will greatly benefit the entire Virtual Coffee community b
 
 ### For Task Challenge Takers
 
-**Practical Experience:** Engage with challenges modeled after real-world scenarios, providing applicable experience.
-**Skill Development:** Build and enhance your skill set with hands-on tasks.
-**Portfolio Building:** Create a portfolio of practical projects to showcase your abilities to potential employers.
-**Feedback and Improvement:** Receive constructive feedback from experienced professionals to refine your skills.
+- **Practical Experience:** Engage with challenges modeled after real-world scenarios, providing applicable experience.
+- **Skill Development:** Build and enhance your skill set with hands-on tasks.
+- **Team Building:** Review peers' code and give targeted, helpful feedback.
+- **Portfolio Expansion:** Create a portfolio of practical projects to showcase your abilities to potential employers.
+- **Feedback and Improvement:** Receive constructive feedback from experienced professionals to refine your skills.
 
 ### For the VC Community
 
