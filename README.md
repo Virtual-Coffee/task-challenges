@@ -26,7 +26,7 @@ These task challenges will greatly benefit the entire Virtual Coffee community b
 **Professional Growth:** Prepare members for real-world roles in the tech industry through realistic challenges.
 **Enhanced Resources:** Build a repository of valuable resources and completed challenges for ongoing learning and reference.
 
-Unlike abstract problem-solving platforms like LeetCode and Codewars, these challenges are grounded in real-world applications, making them immensely beneficial for professional development and practical learning.
+Unlike abstract problem-solving platforms like [LeetCode](https://leetcode.com/) and [Codewars](https://www.codewars.com/), these challenges are grounded in real-world applications, making them immensely beneficial for professional development and practical learning.
 
 ## Table of Contents
 
