@@ -19,5 +19,5 @@ Below is the list of task challenges contained within this repository. Refer to 
 
 ## Multi-level Task Challenges
 
-- [Node.js Simple Backend API Challenge](./_example-task-challenge.md)
+- [Simple Backend API Challenge](./_example-task-challenge.md)
 - Task Challenge 2

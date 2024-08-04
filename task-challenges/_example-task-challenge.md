@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD024 -->
-# Node.js Simple Backend API Challenge
+# Simple Backend API Challenge
 
-**Creator:** XYZ
+**Creator:** Arvind
 
 **Source/Author:** ChatGPT
 
@@ -11,16 +11,14 @@ Create a simple backend API to manage a collection of resources (e.g., articles,
 
 ### Prerequisites
 
-- Basic JavaScript and Node.js
-- Express.js
+- Backend language of your choice
+- Backend library/framework of your choice (optional)
 - MongoDB (or any other database of your choice)
 - Basic knowledge of RESTful API principles
 
 ### The Tech
 
-- Node.js
-- Express.js (for creating the API)
-- MongoDB (for storing data; you can use Mongoose for easier interaction)
+- MongoDB (or any other database of your choice)
 - Postman or any other API testing tool
 
 ### For Beginner Level
@@ -109,4 +107,4 @@ Create a simple backend API to manage a collection of resources (e.g., articles,
 ## Going Further
 
 - **Authentication:** Learn about token-based authentication (e.g., JWT).
-- **Testing:** Learn about testing your API using tools like Mocha, Chai, or Jest
+- **Testing:** Learn about testing your API using your backend language's native testing tools
